@@ -1,0 +1,2 @@
+# vectores-2022
+Ejercicio de manejo de vectores de objetos en el lenguaje c#
